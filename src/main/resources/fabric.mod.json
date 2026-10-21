@@ -1,0 +1,32 @@
+{
+  "schemaVersion": 1,
+  "id": "lootvault",
+  "version": "${version}",
+  "name": "LootVault",
+  "description": "Smart container vacuum — pull items from Shulker Boxes, Chests, Barrels & Copper Chests with intelligent enchantment-aware filtering.",
+  "authors": [
+    "Freakshov",
+    "LootVault Team"
+  ],
+  "contact": {
+    "homepage": "https://modrinth.com/mod/lootvault",
+    "sources": "https://github.com/LootVault/LootVault"
+  },
+  "license": "MIT",
+  "icon": "assets/lootvault/icon.png",
+  "environment": "client",
+  "entrypoints": {
+    "client": [
+      "com.lootvault.LootVaultClient"
+    ]
+  },
+  "mixins": [
+    "lootvault.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.18.0",
+    "minecraft": ">=1.21.11",
+    "java": ">=21",
+    "fabric-api": "*"
+  }
+}

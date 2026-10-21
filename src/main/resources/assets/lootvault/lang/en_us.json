@@ -1,0 +1,49 @@
+{
+  "key.lootvault.category": "LootVault",
+  "key.lootvault.toggle": "Toggle LootVault",
+
+  "message.lootvault.prefix": "§8[§6⚡§e LootVault§8] §r",
+  "message.lootvault.enabled": "§aActivated!",
+  "message.lootvault.disabled": "§cDeactivated!",
+
+  "message.lootvault.delay_set": "§eDelay set to §a%d ms§e.",
+  "message.lootvault.autoclose_on": "§eAuto Close: §aEnabled",
+  "message.lootvault.autoclose_off": "§eAuto Close: §cDisabled",
+
+  "message.lootvault.chests_on": "§eChest Vacuum: §aEnabled",
+  "message.lootvault.chests_off": "§eChest Vacuum: §cDisabled",
+  "message.lootvault.shulkers_on": "§eShulker Vacuum: §aEnabled",
+  "message.lootvault.shulkers_off": "§eShulker Vacuum: §cDisabled",
+  "message.lootvault.barrels_on": "§eBarrel Vacuum: §aEnabled",
+  "message.lootvault.barrels_off": "§eBarrel Vacuum: §cDisabled",
+
+  "message.lootvault.smart_on": "§eSmart Filter: §aEnabled §7(enchanted/superior items prioritized)",
+  "message.lootvault.smart_off": "§eSmart Filter: §cDisabled",
+  "message.lootvault.random_on": "§eRandom Order (Anti-Cheat Bypass): §aEnabled",
+  "message.lootvault.random_off": "§eRandom Order (Anti-Cheat Bypass): §cDisabled",
+  "message.lootvault.mode_set": "§eLoot Mode: §a%s",
+  "message.lootvault.mode_invalid": "§cInvalid mode! Use §eall §cor §esmart_only§c.",
+
+  "message.lootvault.looted": "§a%d §7items vacuumed into inventory!",
+  "message.lootvault.inv_full": "§cInventory full!",
+  "message.lootvault.lang_set": "§eLanguage set to §aEnglish§e.",
+
+  "message.lootvault.keybind_listening": "§ePress any key to bind (or press §cESC §eto cancel)...",
+  "message.lootvault.keybind_set": "§aKeybind updated to: §b%s",
+  "message.lootvault.keybind_cancelled": "§cKeybind change cancelled.",
+
+  "message.lootvault.status_header": "§8━━━ §6⚡ §eLootVault Status §8━━━",
+  "message.lootvault.status_overall": "§7Status: %s",
+  "message.lootvault.status_keybind": "§7Keybind: §e%s",
+  "message.lootvault.status_delay": "§7Delay: §e%d ms",
+  "message.lootvault.status_autoclose": "§7Auto Close: %s",
+  "message.lootvault.status_shulkers": "§7Shulker Vacuum: %s",
+  "message.lootvault.status_chests": "§7Chest Vacuum: %s",
+  "message.lootvault.status_barrels": "§7Barrel Vacuum: %s",
+  "message.lootvault.status_smart": "§7Smart Filter: %s",
+  "message.lootvault.status_random": "§7Random Order: %s",
+  "message.lootvault.status_mode": "§7Loot Mode: §e%s",
+  "message.lootvault.status_lang": "§7Language: §b%s",
+  "message.lootvault.state_on": "§aEnabled",
+  "message.lootvault.state_off": "§cDisabled"
+}

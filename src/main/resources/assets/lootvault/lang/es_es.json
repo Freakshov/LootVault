@@ -1,0 +1,49 @@
+{
+  "key.lootvault.category": "LootVault",
+  "key.lootvault.toggle": "Activar/Desactivar LootVault",
+
+  "message.lootvault.prefix": "§8[§6⚡§e LootVault§8] §r",
+  "message.lootvault.enabled": "§a¡Activado!",
+  "message.lootvault.disabled": "§c¡Desactivado!",
+
+  "message.lootvault.delay_set": "§eRetardo establecido en §a%d ms§e.",
+  "message.lootvault.autoclose_on": "§eCierre Automático: §aActivado",
+  "message.lootvault.autoclose_off": "§eCierre Automático: §cDesactivado",
+
+  "message.lootvault.chests_on": "§eVacío de Cofres: §aActivado",
+  "message.lootvault.chests_off": "§eVacío de Cofres: §cDesactivado",
+  "message.lootvault.shulkers_on": "§eVacío de Shulkers: §aActivado",
+  "message.lootvault.shulkers_off": "§eVacío de Shulkers: §cDesactivado",
+  "message.lootvault.barrels_on": "§eVacío de Barriles: §aActivado",
+  "message.lootvault.barrels_off": "§eVacío de Barriles: §cDesactivado",
+
+  "message.lootvault.smart_on": "§eFiltro Inteligente: §aActivado §7(ítems encantados priorizados)",
+  "message.lootvault.smart_off": "§eFiltro Inteligente: §cDesactivado",
+  "message.lootvault.random_on": "§eOrden Aleatorio (Anti-Cheat Bypass): §aActivado",
+  "message.lootvault.random_off": "§eOrden Aleatorio (Anti-Cheat Bypass): §cDesactivado",
+  "message.lootvault.mode_set": "§eModo de Saqueo: §a%s",
+  "message.lootvault.mode_invalid": "§c¡Modo inválido! Use §eall §co §esmart_only§c.",
+
+  "message.lootvault.looted": "§a%d §7ítems transferidos al inventario!",
+  "message.lootvault.inv_full": "§c¡Inventario lleno!",
+  "message.lootvault.lang_set": "§eIdioma establecido en §aEspañol§e.",
+
+  "message.lootvault.keybind_listening": "§ePresione cualquier tecla para asignar (o §cESC §epara cancelar)...",
+  "message.lootvault.keybind_set": "§aTecla asignada: §b%s",
+  "message.lootvault.keybind_cancelled": "§cAsignación de tecla cancelada.",
+
+  "message.lootvault.status_header": "§8━━━ §6⚡ §eEstado de LootVault §8━━━",
+  "message.lootvault.status_overall": "§7Estado General: %s",
+  "message.lootvault.status_keybind": "§7Tecla de Acceso: §e%s",
+  "message.lootvault.status_delay": "§7Retardo: §e%d ms",
+  "message.lootvault.status_autoclose": "§7Cierre Automático: %s",
+  "message.lootvault.status_shulkers": "§7Vacío de Shulkers: %s",
+  "message.lootvault.status_chests": "§7Vacío de Cofres: %s",
+  "message.lootvault.status_barrels": "§7Vacío de Barriles: %s",
+  "message.lootvault.status_smart": "§7Filtro Inteligente: %s",
+  "message.lootvault.status_random": "§7Orden Aleatorio: %s",
+  "message.lootvault.status_mode": "§7Modo de Saqueo: §e%s",
+  "message.lootvault.status_lang": "§7Idioma: §b%s",
+  "message.lootvault.state_on": "§aActivado",
+  "message.lootvault.state_off": "§cDesactivado"
+}
