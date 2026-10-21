@@ -18,7 +18,7 @@
 
 ## 📖 Hakkında
 
-**LootVault**, açık kaynaklı **ShulkerSnap** modunun modern Minecraft mimarisine (**1.21.11 / Fabric Loom 1.14**) taşınmış, akıllı büyü filtreleme ve anti-cheat bypass yetenekleriyle donatılmış gelişmiş halidir.
+**LootVault**, açık kaynaklı modu modern Minecraft mimarisine (**1.21.11 / Fabric Loom 1.14**) taşınmış, akıllı büyü filtreleme ve anti-cheat bypass yetenekleriyle donatılmış gelişmiş halidir.
 
 Konteynerleri (Shulker kutuları, sandıklar, fıçılar) açtığınız milisaniyede içindeki eşyaları envanterinize çeker, akıllı filtrelerle değerli eşyalara öncelik verir ve işlemi tamamlar tamamlamaz ekranı otomatik olarak kapatır.
 
@@ -88,7 +88,7 @@ Derleme tamamlandığında hazır mod dosyası `build/libs/LootVault-2.0.0.jar` 
 
 ## 👥 Yapımcı ve Emeği Geçenler (Credits)
 
-- **Orijinal Geliştirici:** **[Freakshov](https://github.com/Freakshov)** — [ShulkerSnap](https://github.com/Freakshov/ShulkerSnap) temel mimarisi ve fikri.
+- **Orijinal Geliştirici:** **[Freakshov](https://github.com/Freakshov)** temel mimarisi ve fikri.
 - **Modernizasyon & LootVault Ekibi:** 1.21.11 portu, Data Components API entegrasyonu, Anti-Cheat bypass ve akıllı filtreleme sistemleri.
 
 ---
